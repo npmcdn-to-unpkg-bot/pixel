@@ -1,5 +1,4 @@
-Usage
-git clone https://github.com/bahuzz/pixel.git /n
+How to run
+
 npm install
 gulp
-enjoy
